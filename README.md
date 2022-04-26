@@ -3,4 +3,7 @@
 # Get started
 
 **Commands:**
-Install npx: *npx create-next-app*
+
+Install npx: 
+
+*npx create-next-app*
